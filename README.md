@@ -1,2 +1,4 @@
 # locust
-simple read locust repository
+simple read locust repository.
+
+please read locust.xmind.
